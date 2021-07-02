@@ -1,0 +1,11 @@
+G:\C#\TheLittleMethod\TheLittleMethod\bin\Debug\TheLittleMethod.exe.config
+G:\C#\TheLittleMethod\TheLittleMethod\bin\Debug\TheLittleMethod.exe
+G:\C#\TheLittleMethod\TheLittleMethod\bin\Debug\TheLittleMethod.pdb
+G:\C#\TheLittleMethod\TheLittleMethod\obj\Debug\TheLittleMethod.csprojAssemblyReference.cache
+G:\C#\TheLittleMethod\TheLittleMethod\obj\Debug\TheLittleMethod.Properties.Resources.resources
+G:\C#\TheLittleMethod\TheLittleMethod\obj\Debug\TheLittleMethod.csproj.GenerateResource.cache
+G:\C#\TheLittleMethod\TheLittleMethod\obj\Debug\TheLittleMethod.csproj.CoreCompileInputs.cache
+G:\C#\TheLittleMethod\TheLittleMethod\obj\Debug\TheLittleMethod.exe
+G:\C#\TheLittleMethod\TheLittleMethod\obj\Debug\TheLittleMethod.pdb
+G:\C#\TheLittleMethod\TheLittleMethod\obj\Debug\TheLittleMethod.Form1.resources
+G:\C#\TheLittleMethod\TheLittleMethod\obj\Debug\TheLittleMethod.TreeForm.resources
